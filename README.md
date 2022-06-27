@@ -1,4 +1,4 @@
-# Aisthisi-Token-ERC721
+# Olive-Token-ERC721
 A Project that explores how to ship real, physical products, which are connected to ERC721 NFTs.
 
 ERC721 Token generation
